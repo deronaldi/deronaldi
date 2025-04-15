@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Dennis Wong
-- 👀 I’m interested in ... (ML, Big Data, Algorithms, Robotics)
+- 👀 I’m interested in ... (AI, ML, Big Data, Algorithms, Finance, Robotics)
 - 🌱 I’m currently learning ... (Anything related to CS)
 - 💞️ I’m looking to collaborate on ... (Anything)
 - 📫 How to reach me ... (Anytime)
